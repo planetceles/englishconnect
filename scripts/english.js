@@ -1,4 +1,4 @@
-const descUrl = "";
+const descUrl = "https://planetceles.github.io/englishconnect/data/enlgish_description.json";
 const intro = document.querySelector("#intro");
 const languages = document.querySelector("#languages");
 const purposes = document.querySelector("#purpose");

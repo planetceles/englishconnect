@@ -164,6 +164,10 @@ main {
         }
     }
 }
+#goals {
+    /* background-color: red; */
+    padding-left: 3.5rem;
+}
 
 footer {
 
