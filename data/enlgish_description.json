@@ -1,0 +1,17 @@
+{
+    "teacher": [
+        {
+            "name": "Celestin Mande",
+            "intro": "I have experience teaching students, especially in subjects like Algebra and Geometry, and I understand how important it is to learn step by step. I also have experience supporting learners and working with data, which has helped me become patient, organized, and attentive when guiding others. I am passionate about helping students succeed and am always willing to go the extra mile to ensure you understand the material.",
+            "languages": "I speak English and French. I understand the the challenges and the excitement of learning a new language or improving you existing language.",
+            "purpose": "Learning English is a fascinating journey. In this class, we will focus on:",
+            "goals": [
+                "Improving your speaking skills",
+                "Building your vocabulary",
+                "Understanding grammar in a simple way",
+                "Practicing real-life communication"
+            ],
+            "highlight": "You do not need to be perfect. What matters most is that you try, participate, and improve a little every day."
+        }
+    ]
+}
