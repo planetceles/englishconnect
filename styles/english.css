@@ -225,6 +225,7 @@ footer {
         }
         .course-card {
             .register-link {
+                cursor: pointer;
                 transition: 0.3s;
             }
             .register-link:hover {
